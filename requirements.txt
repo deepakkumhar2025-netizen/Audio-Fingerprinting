@@ -1,6 +1,6 @@
 numpy
 scipy
-sqlite
+sqlite3
 streamlit
 librosa
 plotly
