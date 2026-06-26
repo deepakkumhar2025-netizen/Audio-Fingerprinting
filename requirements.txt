@@ -2,3 +2,4 @@ numpy
 scipy
 psycopg2-binary
 streamlit
+librosa
